@@ -40,14 +40,14 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    git clone https://github.com/moha-salad64/Weather-App.git
 
-##Project Structure:   
+### Project Structure:   
 Weather-App/
    ├── index.html          
    ├── style.css           
    ├── main.js            
    └── README.md           
 
-##Usage:
+### Usage:
    Open the App: Load index.html in a browser.
    Enter a City Name: Type the name of any city in the input box (e.g., "New York").
    Get Weather: Press "Get Weather" or hit "Enter."
