@@ -48,11 +48,19 @@ Weather-App/
    └── README.md           
 
 ### Usage:
-   Open the App: Load index.html in a browser.
-   Enter a City Name: Type the name of any city in the input box (e.g., "New York").
-   Get Weather: Press "Get Weather" or hit "Enter."
-   View Results: The app displays:
-   Icon: Visual representation of the weather
-   Temperature: Current temperature in Celsius
-   Description: Weather description (e.g., "clear sky")
-   Additional Details: Feels like temperature, humidity, and wind speed.
+   #### Open the App: 
+      Load index.html in a browser.
+   #### Enter a City Name: 
+      Type the name of any city in the input box (e.g., "New York").
+   #### Get Weather: 
+      Press "Get Weather" or hit "Enter."
+   #### View Results:
+      The app displays:
+   #### Icon:
+      Visual representation of the weather
+   #### Temperature:
+      Current temperature in Celsius
+   #### Description:  
+      Weather description (e.g., "clear sky")
+   #### Additional Details: 
+      Feels like temperature, humidity, and wind speed.
