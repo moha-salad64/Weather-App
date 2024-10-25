@@ -42,10 +42,10 @@ To get a local copy of this project up and running, follow these steps:
 
 Project Structure: 
       Weather-App/
-      ├── index.html          # Main HTML file
-      ├── style.css           # Styles for the app
-      ├── main.js             # JavaScript logic for fetching and displaying weather
-      └── README.md           # Project documentation
+         ├── index.html          
+         ├── style.css           
+         ├── main.js            
+         └── README.md           
 
 Usage:
    Open the App: Load index.html in a browser.
