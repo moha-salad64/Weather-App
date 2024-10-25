@@ -40,7 +40,7 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    git clone https://github.com/moha-salad64/Weather-App.git
 
-Project Structure:
+Project Structure:'\n'
 
   Weather-App/
 ├── index.html          # Main HTML file
